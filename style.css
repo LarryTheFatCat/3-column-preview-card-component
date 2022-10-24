@@ -4,3 +4,23 @@ html {
     font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
     background-color: hsl(0, 0%, 95%);
 }
+
+
+.card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: column;
+    width: 9cm;
+}
+
+.one {
+    background-color: hsl(31, 77%, 52%);
+    height: 33.070875em;
+    display: flex;
+    justify-content: center;
+    place-content: center;
+    align-items: center;
+    position: relative;
+    left: 35vh;
+    top: 14vh;
+}
